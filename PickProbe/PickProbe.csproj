@@ -83,13 +83,9 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\P2220.png" />
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="Resources\P3010.png" />
     <EmbeddedResource Include="Resources\P6248.png" />
     <EmbeddedResource Include="Resources\P7225.png" />
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="Resources\P7240.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
